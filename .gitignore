@@ -1,0 +1,8 @@
+build/
+hft_app
+test_latency
+trades.csv
+.DS_Store
+*.o
+*.out
+.vscode/
